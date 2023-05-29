@@ -45,41 +45,41 @@
 |            | D4CPro1     | D4CPro2     | D4CPro3     |
 |            | D5CPro1     | D5CPro2     | D5CPro3     |
 
-    <table>
-        <thead>
-            <tr>
-                <th>TIPO PROCESADO 1</th>
-                <th>PROCESADOR 1</th>
-                <th>PROCESADOR 2</th>
-                <th>PROCESADOR 3</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td rowspan=5 align="center">SECUENCIAL</td>
-                <td align="left">Tm1SePr1</td>
-                <td align="left">Tm1SePr2</td>
-                <td align="left">Tm1SePr3</td>
-            </tr>
-            <tr>
-                <td align="left">Tm2SePr1</td>
-                <td align="left">Tm2SePr2</td>
-                <td align="left">Tm2SePr3</td>            
-            </tr>
-            <tr>
-                <td align="left">Tm3SePr1</td>
-                <td align="left">Tm3SePr2</td>
-                <td align="left">Tm3SePr3</td> 
-            </tr>
-            <tr>
-                <td align="left">Tm4SePr1</td>
-                <td align="left">Tm4SePr2</td>
-                <td align="left">Tm4SePr3</td> 
-            </tr>
-                        <tr>
-                <td align="left">Tm5SePr1</td>
-                <td align="left">Tm5SePr2</td>
-                <td align="left">Tm5SePr3</td> 
-            </tr>
-        </tbody>
-    </table>
+<table>
+    <thead>
+        <tr>
+            <th>TIPO PROCESADO 1</th>
+            <th>PROCESADOR 1</th>
+            <th>PROCESADOR 2</th>
+            <th>PROCESADOR 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5 align="center">SECUENCIAL</td>
+            <td align="left">Tm1SePr1</td>
+            <td align="left">Tm1SePr2</td>
+            <td align="left">Tm1SePr3</td>
+        </tr>
+        <tr>
+            <td align="left">Tm2SePr1</td>
+            <td align="left">Tm2SePr2</td>
+            <td align="left">Tm2SePr3</td>            
+        </tr>
+        <tr>
+            <td align="left">Tm3SePr1</td>
+            <td align="left">Tm3SePr2</td>
+            <td align="left">Tm3SePr3</td> 
+        </tr>
+        <tr>
+            <td align="left">Tm4SePr1</td>
+            <td align="left">Tm4SePr2</td>
+            <td align="left">Tm4SePr3</td> 
+        </tr>
+                    <tr>
+            <td align="left">Tm5SePr1</td>
+            <td align="left">Tm5SePr2</td>
+            <td align="left">Tm5SePr3</td> 
+        </tr>
+    </tbody>
+</table>
