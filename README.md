@@ -10,15 +10,15 @@
 > La idea es utilizar el programa que se provee para sacar datos estadisticos de la velocidad de procesamiento de diferentes maquinas, tanto para el proceso secuencial como el de concurrencia, corriendo el script en repetidas ocaciones para una misma operación, de la siguiente forma:
 
 1. El equipo debe escoger una operación de las 9 que tiene el programa, para correrla en las tres maquinas. Las operaciones son:
-    [] Calcular la media de cada columna de la matriz A
-    [] Calcular la varianza de cada columna de la matriz A
-    [] Calcular la variación estandar de cada columna de la matriz A
-    [] Calcular el valor minimo y el valor maximo de cada columna de la matriz A
-    [] Calcular la suma de la matriz A con la matriz B
-    [] Calcular el producto punto de la matriz A con la matriz B
-    [] Calcular el producto de un escalar con la matriz A
-    [] Calcular la normalización (Opción 1) de las columnas de la matriz A
-    [] Calcular la normalización (Opción 2) de las columnas de la matriz A
+    [ ] Calcular la media de cada columna de la matriz A
+    [ ] Calcular la varianza de cada columna de la matriz A
+    [ ] Calcular la variación estandar de cada columna de la matriz A
+    [ ] Calcular el valor minimo y el valor maximo de cada columna de la matriz A
+    [ ] Calcular la suma de la matriz A con la matriz B
+    [ ] Calcular el producto punto de la matriz A con la matriz B
+    [ ] Calcular el producto de un escalar con la matriz A
+    [ ] Calcular la normalización (Opción 1) de las columnas de la matriz A
+    [ ] Calcular la normalización (Opción 2) de las columnas de la matriz A
 
 2. El programa tiene la opción en el menu para correr cualquiera de las opciones anteriormente mencionadas, en forma de secuencia o a través de concurrencia. Esta ultima, indicando el número de hilos. La idea es implementar la misma opción del menu tanto para secuencia como para concurrencia.
 
