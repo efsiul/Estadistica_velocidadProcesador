@@ -32,19 +32,6 @@
 >
 > A continuación se ofrece la ilustración de una tabla que trata de explicar los datos finales que ha tomado el equipo, con cada maquina.
 
-|            | PROCESADOR1 | PROCESADOR2 | PROCESADOR3 |
-|:----------:|:------------|:------------|:------------|
-|SECUENCIAL  | D1SPro1     | D1SPro2     | D1SPro3     |
-|            | D2SPro1     | D2SPro2     | D2SPro3     |
-|            | D3SPro1     | D3SPro2     | D3SPro3     |
-|            | D4SPro1     | D4SPro2     | D4SPro3     |
-|            | D5SPro1     | D5SPro2     | D5SPro3     |
-|CONCURRENCIA| D1CPro1     | D1CPro2     | D1CPro3     |
-|            | D2CPro1     | D2CPro2     | D2CPro3     |
-|            | D3CPro1     | D3CPro2     | D3CPro3     |
-|            | D4CPro1     | D4CPro2     | D4CPro3     |
-|            | D5CPro1     | D5CPro2     | D5CPro3     |
-
 <table>
     <thead>
         <tr>
