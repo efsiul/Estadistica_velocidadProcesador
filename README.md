@@ -81,5 +81,31 @@
             <td align="left">Tm5SePr2</td>
             <td align="left">Tm5SePr3</td> 
         </tr>
+                <tr>
+            <td rowspan=5 align="center">CONCURRENCIA</td>
+            <td align="left">Tm1CoPr1</td>
+            <td align="left">Tm1CoPr2</td>
+            <td align="left">Tm1CoPr3</td>
+        </tr>
+        <tr>
+            <td align="left">Tm2CoPr1</td>
+            <td align="left">Tm2CoPr2</td>
+            <td align="left">Tm2CoPr3</td>
+        </tr>
+        <tr>
+            <td align="left">Tm3CoPr1</td>
+            <td align="left">Tm3CoPr2</td>
+            <td align="left">Tm3CoPr3</td>
+        </tr>
+        <tr>
+            <td align="left">Tm4CoPr1</td>
+            <td align="left">Tm4CoPr2</td>
+            <td align="left">Tm4CoPr3</td>
+        </tr>
+                    <tr>
+            <td align="left">Tm5CoPr1</td>
+            <td align="left">Tm5CoPr2</td>
+            <td align="left">Tm5CoPr3</td>
+        </tr>
     </tbody>
 </table>
