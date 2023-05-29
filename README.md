@@ -33,7 +33,7 @@
 > A continuación se ofrece la ilustración de una tabla que trata de explicar los datos finales que ha tomado el equipo, con cada maquina.
 
 |            | PROCESADOR1 | PROCESADOR2 | PROCESADOR3 |
-|------------|-------------|-------------|-------------|
+|:----------:|:------------|:------------|:------------|
 |SECUENCIAL  | D1SPro1     | D1SPro2     | D1SPro3     |
 |            | D2SPro1     | D2SPro2     | D2SPro3     |
 |            | D3SPro1     | D3SPro2     | D3SPro3     |
@@ -44,3 +44,42 @@
 |            | D3CPro1     | D3CPro2     | D3CPro3     |
 |            | D4CPro1     | D4CPro2     | D4CPro3     |
 |            | D5CPro1     | D5CPro2     | D5CPro3     |
+
+    <table>
+        <thead>
+            <tr>
+                <th>TIPO PROCESADO 1</th>
+                <th>PROCESADOR 1</th>
+                <th>PROCESADOR 2</th>
+                <th>PROCESADOR 3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan=5 align="center">SECUENCIAL</td>
+                <td align="left">Tm1SePr1</td>
+                <td align="left">Tm1SePr2</td>
+                <td align="left">Tm1SePr3</td>
+            </tr>
+            <tr>
+                <td align="left">Tm2SePr1</td>
+                <td align="left">Tm2SePr2</td>
+                <td align="left">Tm2SePr3</td>            
+            </tr>
+            <tr>
+                <td align="left">Tm3SePr1</td>
+                <td align="left">Tm3SePr2</td>
+                <td align="left">Tm3SePr3</td> 
+            </tr>
+            <tr>
+                <td align="left">Tm4SePr1</td>
+                <td align="left">Tm4SePr2</td>
+                <td align="left">Tm4SePr3</td> 
+            </tr>
+                        <tr>
+                <td align="left">Tm5SePr1</td>
+                <td align="left">Tm5SePr2</td>
+                <td align="left">Tm5SePr3</td> 
+            </tr>
+        </tbody>
+    </table>
